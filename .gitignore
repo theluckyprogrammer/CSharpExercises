@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LearnByTests/.vs
+/.vs/CSharpExercises/v17
+/.vs
+/LearnByTests/bin/Debug/net6.0
+/LearnByTests/Examples/bin/Debug/net6.0
+/LearnByTests/Examples/obj
+/LearnByTests/Exercises/bin/Debug/net6.0
+/LearnByTests/Exercises/obj
+/LearnByTests/obj

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoSomeLearning", "Examples\DoSomeLearning.csproj", "{CE80C8B2-946D-4A42-B2BA-10B19922D645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises", "Exercises\Exercises.csproj", "{3DC0F9FE-EFAF-480D-9C91-C6BDFB5633D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE80C8B2-946D-4A42-B2BA-10B19922D645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE80C8B2-946D-4A42-B2BA-10B19922D645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE80C8B2-946D-4A42-B2BA-10B19922D645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE80C8B2-946D-4A42-B2BA-10B19922D645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC0F9FE-EFAF-480D-9C91-C6BDFB5633D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC0F9FE-EFAF-480D-9C91-C6BDFB5633D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC0F9FE-EFAF-480D-9C91-C6BDFB5633D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC0F9FE-EFAF-480D-9C91-C6BDFB5633D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB950B18-BBEB-4A71-8A42-3AA57DFEA690}
+	EndGlobalSection
+EndGlobal
